@@ -24,3 +24,19 @@
 25. Python Interpreter
 26. Modukes in Python
 27. Introduction to Pip
+
+**Django**
+
+1. Introduction and Installation
+2. URL routing and Django Apps
+3. Django template language
+4. Sending data to template file
+5. Building a word counter in Django
+6. GET vs POST in Django
+7. Static files in Django
+8. Introduction to Django models
+9. Django admin panel and manipulation of the database
+10. User registration in Django
+11. User Login and Logout in Django
+12. Dynamic URL routing in Django
+13. PostgreSQL Setup
